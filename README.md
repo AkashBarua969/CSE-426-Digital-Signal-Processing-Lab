@@ -31,6 +31,29 @@ CSE Society Executive Member | Tech & Humanitarian Enthusiast 🌿
 
 ---
 
+## 🧪 Experiments Performed 
+
+The following experiments were completed as part of **CSE-426: Digital Signal Processing Lab**:
+
+1. Plotting of Sine and Cosine Waveforms  
+2. Generation of Unit Step Sequence  
+3. Generation of Unit Ramp Sequence  
+4. Generation of Unit Sample (Impulse) Sequence  
+5. Signal Reversal and Even Component Extraction  
+6. Signal Reversal and Odd Component Extraction  
+7. Time Folding (Time Reversal) of a Discrete-Time Signal  
+8. Time Shifting (Delay) of a Discrete-Time Signal  
+9. Time Shifting (Advance) of a Discrete-Time Signal  
+10. Z-Transform of a Discrete-Time Signal (Manual Computation)  
+11. Sampling of an Analog Signal  
+12. Generation of Exponential Signal  
+13. Continuous-Time and Discrete-Time Signal Generation  
+14. Linear Convolution of Two Discrete-Time Signals  
+15. Cross-Correlation of Two Signals  
+16. Inverse Z-Transform using MATLAB  
+
+---
+
 ## 📚 Related Theory Course (CSE-425: Digital Signal Processing)
 
 **Credit:** 3.0  
